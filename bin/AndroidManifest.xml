@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.ttcbusschedule.RouteListActivity"
+            android:name="seneca.slee201.ttcbusschedule.RouteListActivity"
             android:label="@string/title_activity_route_list" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
